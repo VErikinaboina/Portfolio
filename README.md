@@ -1,12 +1,5 @@
 # Angular Portfolio App
 
-This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
-
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 ## Author
 
 I'm Venkat Erikinaboina, a software developer.
