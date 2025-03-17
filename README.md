@@ -1,4 +1,4 @@
-# BC | Angular Portfolio App
+# Angular Portfolio App
 
 This is my personal portfolio website built with Angular, Typescript, HTML5, CSS3, Bootstrap, Ngx-Bootstrap, DevIcons and Angular Material. It's currently deployed on the web: [https://angular-portfolio-app-omega.vercel.app/](https://angular-portfolio-app-omega.vercel.app/)
 
@@ -35,9 +35,11 @@ You can run this project locally too.
 
 Clone this repo.
 
-Run `ng serve` for a dev server. 
+Firstly run `yarn install`
 
-Navigate to `http://localhost:4200/`. 
+Run `npm start` to start the application. 
+
+Navigate to `http://localhost:4200/` or any given(if it is using by another App). 
 
 The application will automatically reload if you change any of the source files.
 
